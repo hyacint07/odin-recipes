@@ -1,0 +1,12 @@
+* {
+    background-color: aquamarine;
+    font-family: Verdana, sans-serif;
+}
+
+.title {
+    font-style: italic;
+}
+
+.blurb {
+    font-family: cursive;
+}
